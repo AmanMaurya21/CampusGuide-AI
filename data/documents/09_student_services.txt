@@ -1,0 +1,26 @@
+NORTHSTAR UNIVERSITY — STUDENT ADMINISTRATION SERVICES
+Fictional demonstration data.
+
+1. Student ID cards
+Students can request or collect their university identification cards from the Student Administration Office. Lost cards should be reported promptly so the university can advise on replacement and security procedures.
+
+2. Office hours
+The Student Administration Office is open Monday through Friday from 9:30 AM to 4:30 PM. It is closed on Sundays, Saturdays and university-designated holidays unless a special notice is issued.
+
+3. Certificates
+Students may request bonafide certificates, enrollment verification and other approved student documents through the student portal or administration office. Processing time and required documents depend on the certificate type.
+
+4. Name or record corrections
+Students requesting corrections to personal or academic records should submit supporting evidence through the prescribed process. Changes require verification and approval.
+
+5. Student complaints
+Students may submit academic or administrative complaints through the relevant office or official grievance process. Complaints should include a clear description, dates and supporting evidence.
+
+6. Lost property
+Lost items should be reported to Campus Security or the Lost and Found desk. Students should describe the item and where it was last seen. Unclaimed items are handled according to campus procedures.
+
+7. Academic advisors
+Students can request an appointment with their academic advisor through their program office. Advisors help with academic planning but cannot independently override formal policies.
+
+8. Contact etiquette
+Students should include their university ID, program and a concise description of the request when contacting administrative offices.

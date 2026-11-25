@@ -1,0 +1,44 @@
+NORTHSTAR UNIVERSITY — STUDENT FAQ
+Fictional demonstration FAQ.
+
+Q: What is the minimum attendance requirement?
+A: The ordinary attendance requirement is 75% in each course. Students between 65% and 74% may request exceptional condonation, but approval is not automatic.
+
+Q: How many books can an undergraduate borrow?
+A: Undergraduate students may borrow up to four books at a time for a standard period of 14 days.
+
+Q: What is the library late fine?
+A: The demonstration policy charges ₹5 per book per day for overdue books.
+
+Q: What is the standard placement GPA requirement?
+A: The baseline is a cumulative GPA of 6.5 with no active backlogs. Companies may set additional requirements.
+
+Q: What are the sample merit scholarship renewal criteria?
+A: A semester GPA of at least 8.0 and no active backlogs, subject to the specific scholarship notice.
+
+Q: Where can I report Wi-Fi problems?
+A: Contact the IT Helpdesk in the Academic Block or submit a support request through the university IT portal.
+
+Q: When is the Student Administration Office open?
+A: Monday through Friday, 9:30 AM to 4:30 PM, except university-designated holidays or special notices.
+
+Q: How do I request a re-evaluation?
+A: Submit an application within seven calendar days of result publication, following the Examination Office's process.
+
+Q: Can medical leave automatically count as attendance?
+A: No. Medical documentation may be considered, but it does not automatically convert missed classes into attended sessions or guarantee condonation.
+
+Q: Where can I find my exam timetable?
+A: Timetables are published through the student portal and notice boards.
+
+Q: Who can help with course registration?
+A: Contact your academic advisor or Program Office. Formal exceptions may require approval from the relevant administration.
+
+Q: Does meeting placement eligibility guarantee a job?
+A: No. Eligibility allows participation subject to company requirements; it does not guarantee selection or employment.
+
+Q: Where do I report a lost item?
+A: Report it to Campus Security or the Lost and Found desk.
+
+Q: What should I do if a fee payment is not reflected?
+A: Submit the transaction reference and receipt to the Student Finance Office and avoid duplicate payment until the original transaction is checked.

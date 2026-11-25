@@ -1,0 +1,26 @@
+NORTHSTAR UNIVERSITY — ACADEMIC PROGRESSION AND BACKLOGS
+This is fictional policy data for a RAG demonstration.
+
+1. Semester progression
+Students are expected to complete course registration and required academic activities for each semester. Progression decisions may depend on the student's completed credits, outstanding courses and the academic rules applicable to their program.
+
+2. Backlog definition
+A backlog is a course in which a student has not met the passing requirements. A backlog may result from failing the course, missing a required assessment where no valid resolution was granted, or another outcome defined by the Examination Office.
+
+3. Repeat examinations
+Students with backlogs may be permitted to appear in a scheduled repeat or supplementary examination, subject to registration and eligibility requirements. The Examination Office publishes the applicable schedule. Students must not assume every course is offered in every supplementary period.
+
+4. Course registration
+Students must register for courses through the student portal during the announced registration window. Registration should be reviewed for prerequisite conflicts, timetable clashes and credit limits. Late registration may require approval.
+
+5. Prerequisites
+Some courses may require successful completion of prerequisite courses. The program department publishes prerequisite information. Students who believe they qualify for an exception should contact their academic advisor.
+
+6. Academic advising
+Academic advisors help students plan course registration, understand progression requirements and manage backlogs. Advising does not replace formal approval from the Examination Office or program administration.
+
+7. Academic standing
+The university may review students with repeated failures, low academic performance or incomplete requirements. Students may receive an academic advising notice and should respond within the stated deadline.
+
+8. Recordkeeping
+Students should retain result statements and registration confirmations. Queries about credits, course status or progression should be sent to the Program Office with supporting records.

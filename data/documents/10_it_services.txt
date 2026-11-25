@@ -1,0 +1,26 @@
+NORTHSTAR UNIVERSITY — IT SERVICES AND DIGITAL SUPPORT
+Fictional demonstration data.
+
+1. Campus Wi-Fi
+Wi-Fi is available in major academic buildings, the Central Library and designated student areas. Students should connect using their university-issued credentials where applicable.
+
+2. Wi-Fi troubleshooting
+If Wi-Fi fails, students should first verify that Wi-Fi is enabled, reconnect to the correct campus network and restart the device. If the problem persists, they should report the issue to the IT Helpdesk with their location, device type and error message.
+
+3. IT Helpdesk
+The IT Helpdesk is located in the Academic Block. Support requests may also be submitted through the university IT portal.
+
+4. Password security
+Students should not share their passwords. Password reset requests should use the official portal or Helpdesk process. IT staff should not request a student's password through ordinary email or chat.
+
+5. Student portal
+The student portal provides access to registration, results, timetables, notices and selected administrative services. Students should keep contact details current.
+
+6. Account access
+Students who cannot access their account should provide their university ID and a description of the problem to the Helpdesk. Identity verification may be required before account changes.
+
+7. Device and software support
+The Helpdesk may provide guidance on campus-supported software and access issues. Personal-device repair is not necessarily included in university IT support.
+
+8. Security incidents
+Suspicious emails, suspected account compromise or lost devices containing university data should be reported promptly to the IT Helpdesk.
