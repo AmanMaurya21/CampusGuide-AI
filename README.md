@@ -1,7 +1,13 @@
 # 🎓 CampusGuide AI
 
 An AI-powered university information assistant built using Retrieval-Augmented Generation (RAG). CampusGuide AI helps students retrieve information from university documents while also supporting general knowledge questions, learning assistance, programming help and everyday conversations.
+# CampusGuide AI
 
+An AI-powered campus knowledge assistant built using RAG.
+
+🚀 **Live Demo:** [Open CampusGuide AI](https://campusguide-ai-2w4fqhb9fie87iru3warwl.streamlit.app/)
+
+💻 **Tech Stack:** Python, Streamlit, FAISS, Sentence Transformers, Groq
 ## ✨ Features
 
 - **Document-based Q&A:** Answers university-related questions using uploaded documents.
